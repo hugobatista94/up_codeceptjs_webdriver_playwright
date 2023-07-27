@@ -1,0 +1,19 @@
+{
+  "name": "up_codeceptjs_webdriver_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.5.3",
+    "webdriverio": "^8.13.10"
+  },
+  "dependencies": {
+    "playwright": "^1.36.1"
+  }
+}
